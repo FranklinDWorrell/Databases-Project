@@ -1,0 +1,2 @@
+## Description
+This repo contains my final project for a graduate-level course in databases at UNO in Spring 2017. There is GUI built in JavaFX that allows a user to select a role and then perform operations associated with that role. A large set of queries that we were required to implement are provided with implementations in a separate document. There are also tests exploring concurrency with a report explaining them and the SQL scripts that create, populate, and take down the tables in the database. 
