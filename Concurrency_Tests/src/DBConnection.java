@@ -12,11 +12,11 @@ import oracle.jdbc.*;
  */ 
 public class DBConnection {
     private static final String PROTOCOL = "jdbc:oracle:thin";
-    private static final String LOCATION = "dbsvcs.cs.uno.edu"; 
-    private static final String PORT = "1521"; 
+    private static final String LOCATION = ""; 
+    private static final String PORT = ""; 
     private static final String SID = "orcl"; 
-    private static String username = "fdworrel"; 
-    private static String password = "4K4CsLhM";
+    private static String username = ""; 
+    private static String password = "";
     private static Connection connection = null;     // for Singleton 
 
 	/**
