@@ -1,6 +1,6 @@
 package controller;
 
-import Model.BusinessSector;
+import model.BusinessSector;
 import databaseapp.DBConnection;
 import java.sql.*; 
 import java.math.*; 

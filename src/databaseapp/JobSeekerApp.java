@@ -1,7 +1,7 @@
 package databaseapp;
 
 import controller.JobQueries;
-import Model.Job;
+import model.Job;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

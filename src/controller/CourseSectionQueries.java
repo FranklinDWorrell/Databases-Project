@@ -1,6 +1,6 @@
 package controller;
 
-import Model.CourseSection;
+import model.CourseSection;
 import databaseapp.DBConnection;
 import java.sql.*;
 import java.util.ArrayList;

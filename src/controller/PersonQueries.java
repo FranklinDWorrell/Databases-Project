@@ -1,6 +1,6 @@
 package controller;
 
-import Model.Person;
+import model.Person;
 import databaseapp.DBConnection;
 import java.sql.*; 
 import java.math.*; 

@@ -1,6 +1,6 @@
 package controller;
 
-import Model.Job;
+import model.Job;
 import databaseapp.DBConnection;
 import java.sql.*; 
 import java.math.*; 
